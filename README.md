@@ -1,4 +1,5 @@
-Note on Experiment Logs & Reproducibility
+## Note on Experiment Logs & Reproducibility
+
 Due to the significant computational requirements of processing the QASPER dataset (1,500+ scientific papers) and the ephemeral nature of Google Colab’s local storage, users will notice the following regarding the submitted logs:
 
 Log Persistence: Initial experimentation logs (rapidfire.log and training.log) were generated during active development but were lost when the Colab temporary runtime was recycled.
