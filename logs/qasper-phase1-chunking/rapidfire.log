@@ -1,0 +1,12 @@
+2026-01-27 07:08:51 | Experiment | INFO | experiment.py:163 | [qasper-phase1-chunking:Experiment] Experiment qasper-phase1-chunking created with Experiment ID: 1 at /content/rapidfireai/rapidfire_experiments/qasper-phase1-chunking
+2026-01-27 07:09:35 | Experiment | INFO | metric_rfmetric_manager.py:56 | [qasper-phase1-chunking:Experiment] Initialized TensorBoardMetricLogger: rf_tensorboard
+2026-01-27 07:09:35 | Experiment | INFO | experiment.py:208 | [qasper-phase1-chunking:Experiment] Initialized MetricLogger experiment: qasper-phase1-chunking
+2026-01-27 07:09:35 | Experiment | INFO | dispatcher.py:641 | [qasper-phase1-chunking:Experiment] Started interactive control dispatcher on http://127.0.0.1:8851
+2026-01-27 07:09:35 | Experiment | INFO | dispatcher.py:642 | [qasper-phase1-chunking:Experiment] Use dispatcher API to dynamically stop/resume/delete/clone pipelines
+2026-01-27 07:09:36 | waitress | INFO | wasyncore.py:449 | Serving on http://127.0.0.1:8851
+2026-01-27 07:11:06 | ExperimentUtils | INFO | experiment_utils.py:180 | [qasper-phase1-chunking:ExperimentUtils] Reset experiment states - marked ongoing pipelines, contexts, and tasks as failed
+2026-01-27 07:11:06 | ExperimentUtils | INFO | experiment_utils.py:188 | [qasper-phase1-chunking:ExperimentUtils] Experiment marked as cancelled. Ongoing pipelines, contexts, and tasks have been marked as failed.
+2026-01-27 07:11:06 | ExperimentUtils | INFO | experiment_utils.py:154 | [qasper-phase1-chunking:ExperimentUtils] Experiment qasper-phase1-chunking ended
+2026-01-27 07:11:07 | Experiment | INFO | experiment.py:564 | [qasper-phase1-chunking:Experiment] All actors shut down
+2026-01-27 07:11:07 | Experiment | INFO | experiment.py:565 | [qasper-phase1-chunking:Experiment] Dispatcher will automatically shut down (daemon thread)
+
